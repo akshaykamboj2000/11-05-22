@@ -1,0 +1,761 @@
+@import url('http://fonts.cdnfonts.com/css/war-is-over');
+
+
+body{
+	background: #181818;
+	font-family: graphik;
+}
+
+.head{
+	float: left;
+	width: 100%;
+	padding: 30px 0px;
+}
+.first{
+	float: left;
+}
+.first img{
+	float: left;
+	max-width: 20%;
+}
+.second{
+	float: left;
+	text-align: center;
+}
+
+.second a{
+	text-decoration: none;
+
+	font-family: Graphik;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 24px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: center;
+
+}
+.a{
+	color: #D9B346;
+	padding: 10px 20px;
+
+}
+.b{
+	color: #fff;
+	padding: 10px 20px;
+}
+.third{
+	float: left;
+	padding-top: 10px;
+}
+.third button{
+
+font-family: Graphik;
+font-size: 17px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+border: 1px solid #D9B346;
+color: #D9B346;
+background: transparent;
+float: right;
+}
+.section{
+	float: left;
+	width: 100%;
+}
+.section .p1{
+	font-family: Graphik;
+font-size: 80px;
+font-weight: 500;
+line-height: 88px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #FFFFFF;;
+}
+
+.section .p1 span{
+	font-family: Graphik;
+font-size: 80px;
+font-style: italic;
+font-weight: 500;
+line-height: 88px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #D9B346;
+}
+.section .p2{
+	//styleName: Sub Heading;
+font-family: Graphik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #f8f8f8;
+}
+.bt{
+	text-align: center;
+	padding: 60px;
+}
+.bt .b1{
+	background: linear-gradient(96.01deg, #F7EA76 0%, #D1AF4D 111.25%);
+	border: none;
+
+	font-family: Graphik;
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 25px;
+	letter-spacing: 0.20000000298023224px;
+	color:#181818 ;
+	padding: 10px 20px;
+	margin: 20px;
+
+}
+.bt .b2{
+
+	font-family: Graphik;
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 25px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: left;
+	color: #ffffff;
+	border: 1px solid #fff;
+	background: transparent;
+	padding: 10px 20px;
+	margin: 20px;
+
+}
+.vid{
+	float: left;
+	text-align: center;
+	width: 100%;
+}
+.vid img{
+	max-width: 60%;
+}
+.bg{
+	float: left;
+	width: 100%;
+	background-image: url(../image/bg.png);
+	background-size: 1900px;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 20px 0px;
+	text-align: center;
+	margin-top: 100px;
+}
+.bg .span{
+font-family: Graphik;
+font-size: 52px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #fff;
+}
+.bg .spanp{
+font-family: Graphik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #f8f8f8;
+padding: 0px 0px 60px 0px;
+}
+.div{
+	float: left;
+	width: 100%;
+	margin: 60px 0px;
+}
+.div .left{
+	float: left;
+	text-align: right;
+	padding: 80px 30px 0px 0px;
+} 
+.div .left div{
+	float: right;
+}
+.left span{
+	font-family: Graphik;
+font-size: 36px;
+font-style: italic;
+font-weight: 500;
+line-height: 62px;
+letter-spacing: 0.20000000298023224px;
+color: #D9B346;
+text-align: left;
+}
+.left p{
+	font-family: Graphik;
+font-size: 52px;
+font-weight: 500;
+line-height: 62px;
+letter-spacing: 0.20000000298023224px;
+color: #FFFFFF;
+text-align: left;
+}
+.right{
+	float: left;
+}
+.right img{
+	float: left;
+	max-width: 10%;
+}
+.right div{
+	float: left;
+	width: 450px;
+	text-align: left;
+	margin-left: 20px;
+	padding: 0px 0px 20px 0px;
+}
+.right div span{
+	font-family: Graphik;
+font-size: 20px;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0.3529411852359772px;
+text-align: left;
+color: #EBEBEB;
+}
+.right div p{
+	font-family: Graphik;
+font-size: 15px;
+line-height: 25px;
+letter-spacing: 0.3461538553237915px;
+text-align: left;
+color: #F8F8F8;
+}
+.icons{
+	float: left;
+	width: 100%;
+	background-image: url(../image/str.png);
+	background-size: 1530px;
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+
+}
+.icons div{
+	padding: 60px 0px;
+}
+.icons span{
+font-family: Graphik;
+font-size: 52px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0.20000000298023224px;
+color: #fff;
+
+}
+.icons .p1{
+	font-family: Graphik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #F8F8F8;
+}
+.icons .p2{
+font-family: Graphik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #D9B346;
+}
+.icons img{
+	max-width: 1000px;
+	padding: 0px 0px 70px 0px;
+}
+.icons button{
+font-family: Graphik;
+font-size: 17px;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #FFFFFF;
+border: 1px solid #FFFFFF;
+padding: 10px 20px;
+background: transparent;
+margin-bottom: 40px;
+}
+.pic {
+	float: left;
+	width: 100%;
+	background-image:url(../image/player.png), url(../image/bg2.png);
+    background-size: 370px 570px, 1530px;
+    background-position: 78% 1%, center;
+	background-repeat: no-repeat, no-repeat;
+	padding: 100px 0px 100px 100px;
+}
+
+.up{
+	float: left;
+	width: 100%;
+    text-align: left;                                    
+}
+.up span{
+	font-family: Graphik;
+	font-size: 52px;
+	font-style: italic;
+	font-weight: 500;
+	line-height: 62px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: left;
+	color: #D9B346;
+
+}
+.up .para1{
+
+font-family: Graphik;
+font-size: 52px;
+font-weight: 400;
+line-height: 62px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #fff;
+}
+.up .para2{
+
+font-family: Graphik;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #fff;
+}
+.down{
+	float: left;
+	width: 100%;
+	text-align: left;
+}
+.down span{
+font-family: Mulish;
+font-size: 80px;
+font-weight: 800;
+line-height: 90px;
+letter-spacing: 0.8888888955116272px;
+text-align: left;
+color: #D9B346;
+}
+.down p{
+		font-family: Graphik;
+font-size: 20px;
+font-weight: 300;
+line-height: 25px;
+letter-spacing: 0.3461538553237915px;
+text-align: left;
+color: #fff;
+}
+.us{
+	float: left;
+	width: 25%;
+}
+.client{
+	float: left;
+	width: 25%;
+	
+}
+.set{
+	float: left;
+	width: 25%;
+	
+}
+.map{
+	float: left;
+	width: 100%;
+	background-image: url(../image/bg3.png);
+	background-size: 1530px;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+.ldiv{
+	float: left;
+	text-align: center;
+}
+.rdiv{
+	float: left;
+	text-align: center;
+	padding-left: 60px;
+}
+.ldiv p{
+	font-family: Mulish;
+font-size: 48px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0.5px;
+text-align:left;
+padding: 270px 0px 240px 290px;
+color: #fff;
+}
+.uptext{
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding-top: 60px;
+}
+.uptext span{
+	font-family: Mulish;
+font-size: 30px;
+font-weight: 600;
+line-height: 45px;
+letter-spacing: 0.30000001192092896px;
+text-align: center;
+color: #fff;
+padding: 40px 0px;
+}
+.uptext p{
+	font-family: Mulish;
+font-size: 15px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.3461538553237915px;
+text-align: center;
+color: #fff;
+padding: 40px 0px;
+
+}
+.car{
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.carousel img{
+	transition: 2s;
+}
+.carousel img:hover{
+	transform: scale(1.1);
+}
+.dtext{
+	float: left;
+	width: 100%;
+	text-align: center;
+	padding: 40px 0px;
+}
+.dtext span{
+	font-family: Mulish;
+font-size: 16px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0.4444444477558136px;
+text-align: center;
+color: #fff;
+}
+.dtext p{
+	font-family: Mulish;
+font-size: 14px;
+font-weight: 300;
+line-height: 24px;
+letter-spacing: 0.4375px;
+text-align: center;
+color: #fff;
+}
+.cb {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.sel{
+	padding: 100px 0px 0px 0px;
+}
+.sel .p{
+font-family: Graphik;
+font-size: 40px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: center;
+color: #fff;
+padding-bottom: 40px;
+}
+.sel .a a{
+	text-decoration: none;
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+color: #D9B346;
+display: block;
+}
+.hov{
+	float: left;
+	width: 100%;
+}
+.same{
+	width: 400px;
+	margin-left: 25px;
+}
+.same p{
+	font-family: Graphik;
+font-size: 26px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: #fff;
+padding: 20px;
+height: 100px;
+}
+.same:hover p{
+	color: #000;
+}
+.same button i{
+	color: #fff;
+}
+.same button{
+	background: #D9B346;
+	position: relative;
+	bottom: -10px;
+	border: none;
+	padding: 4px 10px;
+}
+.same{
+float: left;
+
+}
+.same:hover{
+	background: #D9B346;
+}
+.same:hover button{
+	background: #FFF;
+}
+.same:hover button i{
+	color: #000;
+}
+.a{
+	padding: 200px 0px 100px 0px;
+}
+.a i{
+	color: #D9B346;
+	padding: 14px;
+	font-size: 14px;
+}
+.mn{
+	float: left;
+	width: 100%;
+	padding-bottom: 100px;
+}
+.man{
+	background-image: url(../image/bg4.png);
+	background-size: 1400px;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+.dleft{
+	float: left;
+	padding-left: 170px;
+}
+.dright{
+	float: left;
+}
+.dright img{
+	max-width: 60%;
+}
+.dleft .man1{
+font-family: Mulish;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #F8F8F8;
+padding: 10px 0px;
+}
+.dleft .man2{
+	font-family: Mulish;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding: 10px 0px;
+
+}
+.dleft .man3{
+	font-family: Mulish;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #DFDFDF;
+padding: 10px 0px;
+
+}
+.dleft button{
+	padding: 10px 90px;
+	background: linear-gradient(96.01deg, #F7EA76 0%, #D1AF4D 111.25%);
+
+}
+.dleft .man1 img{
+	max-width: 11%;
+    height: 3px;
+    padding-left: 20px;
+}
+.foot{
+	float: left;
+	width: 100%;
+	padding: 90px 0px;
+}
+
+.f1{
+	float: left;
+}
+.f2{
+	float: left;
+}
+.f3{
+	float: left;
+}
+.f4{
+	float: left;
+}
+.f5{
+	float: left;
+}
+.f1 .lp{
+	font-family: Graphik;
+font-size: 36px;
+font-weight: 600;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+}
+.f1 .lp1{
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #F8F8F8;
+
+}
+.f2 p{
+	font-family: Graphik;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #f8f8f8;
+}
+.f3 p{
+	font-family: Graphik;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #f8f8f8;
+}
+.f4 p{
+	font-family: Graphik;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #f8f8f8;
+}
+.f5 .lp3{
+	font-family: Graphik;
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #f8f8f8;
+}
+.f1 a{
+	text-decoration: none;
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding-top: 10px;
+
+}
+.f2 a{
+	text-decoration: none;
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding-top: 10px;
+}
+.f3 a{
+	text-decoration: none;
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding-top: 10px;
+
+}
+.f4 a{
+	text-decoration: none;
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding-top: 10px;
+
+}
+.f5 a{
+	text-decoration: none;
+	font-family: Graphik;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+padding-top: 10px;
+
+}
+.f5 .lp4{
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+color: #fff;
+}
+.f1 img{
+	max-width: 10%;
+}
+.wrapper{
+  width: 100%;
+}
+.carousel{
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 30px;
+}
